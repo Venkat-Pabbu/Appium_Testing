@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T15:25:34 IST" name="Default suite" finished-at="2023-04-25T15:26:20 IST" duration-ms="45937">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T15:25:34 IST" name="Default test" finished-at="2023-04-25T15:26:20 IST" duration-ms="45937">
+      <class name="House_Party.Sample.MainChrome">
+        <test-method is-config="true" signature="AppCall()[pri:0, instance:House_Party.Sample.MainChrome@223191a6]" started-at="2023-04-25T15:25:34 IST" name="AppCall" finished-at="2023-04-25T15:25:56 IST" duration-ms="22356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppCall -->
+        <test-method signature="test1()[pri:0, instance:House_Party.Sample.MainChrome@223191a6]" started-at="2023-04-25T15:25:56 IST" name="test1" finished-at="2023-04-25T15:26:18 IST" duration-ms="22069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="CloseWeb()[pri:0, instance:House_Party.Sample.MainChrome@223191a6]" started-at="2023-04-25T15:26:18 IST" name="CloseWeb" finished-at="2023-04-25T15:26:20 IST" duration-ms="1444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseWeb -->
+      </class> <!-- House_Party.Sample.MainChrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
